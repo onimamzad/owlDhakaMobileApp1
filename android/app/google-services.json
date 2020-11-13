@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237051051855",
+    "firebase_url": "https://owldhaka3.firebaseio.com",
+    "project_id": "owldhaka3",
+    "storage_bucket": "owldhaka3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237051051855:android:57da98f1fcc6a15edbcf3a",
+        "android_client_info": {
+          "package_name": "com.example.restaurent_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237051051855-32gacd4shcrca4b47hhpc8tljvhqi06a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XdxAOqdDo67BABhZpmtpK0JeWzjnpsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237051051855-32gacd4shcrca4b47hhpc8tljvhqi06a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
